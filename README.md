@@ -4,10 +4,8 @@
 
 This project involves the development of an early detection patrol robot for forest and peatland fires, utilizing Internet of Things (IoT) technology. The robot is designed as a tank that can traverse peatland and operate autonomously using a mission planner with an APM 2.8 controller. It is capable of detecting air temperature and humidity, as well as soil moisture, and sending this data to a website via ESP32. If the robot detects low soil moisture and high ambient temperature, it sends an alert signal for a potential fire hazard and marks the location. Additionally, if the robot loses control, it can be manually operated using a remote control, equipped with an FPV camera to monitor the surroundings.
 <p align="center">
-  <img src="https://github.com/arutafusain/IM-HUTLA/assets/98148350/15350168-41e8-42f3-9d2b-cc7b90c6d842" width="400"/>
-</p>
-<p align="center">
-  <img src="https://github.com/arutafusain/IM-HUTLA/assets/98148350/af9de26f-8cbe-4656-9ed7-ba7993c72d9e" width="400"/>
+  <img src="https://github.com/arutafusain/IM-HUTLA/assets/98148350/15350168-41e8-42f3-9d2b-cc7b90c6d842" width="500"/>
+   <img src="https://github.com/arutafusain/IM-HUTLA/assets/98148350/af9de26f-8cbe-4656-9ed7-ba7993c72d9e" width="500"/>
 </p>
 you can visit the data website in link bellow : 
 https://im-hutla.000webhostapp.com/
