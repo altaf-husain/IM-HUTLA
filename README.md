@@ -57,3 +57,6 @@ The primary objective of this project is to create an efficient and reliable sys
 - **Motor Driver**: Cytron MDD10A for controlling DC motors.
 - **GPS Module**: M8N for navigation and location tracking.
 - **Radio Telemetry**: 433MHz for long-range communication.
+
+you can check my project in Youtube bellow
+- https://youtu.be/cWIURxu_-qU?si=Vo-9yzFnwZ9al4FD
