@@ -58,5 +58,15 @@ The primary objective of this project is to create an efficient and reliable sys
 - **GPS Module**: M8N for navigation and location tracking.
 - **Radio Telemetry**: 433MHz for long-range communication.
 
+<p align="center">
+  <img src="12.png" width="300" />
+  <img src="13.png" width="300" />
+</p>
+
+<p align="center">
+  <img src="14.png" width="300" />
+  <img src="15.png" width="300" />
+</p>
+
 you can check my project in Youtube bellow
 - https://youtu.be/cWIURxu_-qU?si=Vo-9yzFnwZ9al4FD
